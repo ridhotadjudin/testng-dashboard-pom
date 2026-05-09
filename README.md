@@ -2,6 +2,7 @@
 ![Selenium](https://img.shields.io/badge/Selenium_4.0.0-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG_7.6.0-FF7300?style=flat-square&logo=testng&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 # 🧪 TestNG + Selenium POM — Cicool Dashboard
 
@@ -160,6 +161,12 @@ View the TestNG report after a test run:
 ```bash
 start test-output\index.html
 ```
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
